@@ -14,7 +14,4 @@
 
 #### 效果示例
 
-
-
-
-
+![image](https://github.com/rulihongran/ID-Card-Translation/blob/main/image/example.jpg)
